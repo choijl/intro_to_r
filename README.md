@@ -14,7 +14,7 @@ R is a powerful programming language for data analysis, with a wide array of app
 The workshop will be held in a computing lab in the Charles Perkins Centre at the University of Sydney. It will be run by Sebastian Duchene (sebastian.duchene@sydney.edu.au), with assistance from A/Prof Simon Ho (simon.ho@sydney.edu.au) and Frank Jia (fangzhi.jia@sydney.edu.au). The workshop will involve a series of lectures and tutorials. The tutorials will involve basic analyses and data manipulation using desktop PCs. We will be using free software that can be installed on PC, Mac, and UNIX platforms. 
 
 
-Required software
+Required softwares
 -----------------
 
 - [R](http://www.r-project.org)
@@ -22,7 +22,7 @@ Required software
 - [RStudio](www.rstudio.com)
 
 
-Optional software
+Optional softwares
 -----------------
 
 - [TextWrangler](http://www.barebones.com/products/textwrangler/download.html) for MacOSX.
